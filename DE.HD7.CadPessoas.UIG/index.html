@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyApp" ng-controller="LayoutController">
+<head>
+    <title>{{appName}} {{versao}} {{tituloPagina}}</title>
+    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/angular-resource.js"></script>
+    <script src="Scripts/angular-cookies.js"></script>
+
+    <script src="App/app.module.js"></script>
+    <script src="App/app.config.js"></script>
+    <script src="App/app.routers.js"></script>
+    <script src="App/app.constants.js"></script>
+
+    <script src="App/Layout/LayoutController.js"></script>
+    <script src="App/Home/HomeController.js"></script>
+    <script src="App/Home/HomeService.js"></script>
+
+    <script src="App/Pessoa/PessoaController.js"></script>
+    <script src="App/Pessoa/PessoaDetalheController.js"></script>
+    <script src="App/Pessoa/PessoaCadastrarController.js"></script>
+    <script src="App/Pessoa/PessoaExcluirController.js"></script>
+    <script src="App/Pessoa/PessoaService.js"></script>
+    
+    <script src="Scripts/nprogress.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="Content/bootstrap.css" />
+    <link href="Content/nprogress.css" rel="stylesheet" />
+    <style type="text/css">
+        @charset "UTF-8";
+
+        [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+            display: none;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#/">Cadastro de Pessoas - SPA [AngularJS + MongoDB + Asp.Net WebApi]</a>
+            </div>
+
+            <div class="collapse navbar-collapse header-collapse">
+                <ul class="nav navbar-nav">
+                    <li data-active-nav><a href="#/Pessoa">Pessoa</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container" ng-view></div>
+
+    <footer class="container">
+        <p class="navbar-text navbar-right">Código fonte em <a href="https://github.com/DiegoEvangelista/Cadastro-de-Pessoa---SPA" target="_blank">GitHub</a></p>
+    </footer>
+
+</body>
+</html>

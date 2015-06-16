@@ -1,0 +1,26 @@
+﻿<div class="page-header">
+    <h1>Pessoa <small>Gerenciar</small></h1>
+</div>
+
+<form name="pessoaForm" ng-submit="cadastrar()" novalidate>
+    <fieldset>
+        <legend>Nova Pessoa</legend>
+        <div class="form-group " ng-class="{ 'has-error' : pessoaForm.nome.$invalid && !pessoaForm.nome.$pristine }">
+            <label>Nome</label><br />
+            <input type="text" id="nome" name="nome" ng-model="pessoa.Nome" placeholder="Nome do palestrante" ng-minlength="2" ng-maxlength="25" required>
+        </div>
+        <div class="form-group " ng-class="{ 'has-error' : pessoaForm.Idade.$invalid && !pessoaForm.Idade.$pristine }">
+            <label>Idade</label><br />
+            <input type="text" id="idade" name="idade" ng-model="pessoa.idade" placeholder="Idade" ng-minlength="2">
+            <p ng-show="pessoaForm.Idade.$error.minlength" class="help-block">Idade</p>
+        </div>
+
+        <hr />
+        <p>
+            <input type="hidden" id="id" name="id" ng-model="pessoa.Id" />
+            <button class="btn btn-sm btn-info" ng-disabled="pessoaForm.$invalid">Cadastrar</button>
+            <a class="btn" href="#/Pessoa">Cancelar</a>
+        </p>
+    </fieldset>
+</form>
+

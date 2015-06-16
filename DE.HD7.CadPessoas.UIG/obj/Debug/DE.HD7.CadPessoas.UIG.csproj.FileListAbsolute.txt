@@ -1,0 +1,12 @@
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.UIG\bin\DE.HD7.CadPessoas.UIG.dll.config
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.UIG\bin\DE.HD7.CadPessoas.UIG.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.UIG\bin\DE.HD7.CadPessoas.UIG.pdb
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.UIG\obj\Debug\DE.HD7.CadPessoas.UIG.csprojResolveAssemblyReference.cache
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.UIG\obj\Debug\DE.HD7.CadPessoas.UIG.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.UIG\obj\Debug\DE.HD7.CadPessoas.UIG.pdb
+D:\Repositorios\Cadastro-de-Pessoa---SPA\DE.HD7.CadPessoas.UIG\bin\DE.HD7.CadPessoas.UIG.dll.config
+D:\Repositorios\Cadastro-de-Pessoa---SPA\DE.HD7.CadPessoas.UIG\bin\DE.HD7.CadPessoas.UIG.dll
+D:\Repositorios\Cadastro-de-Pessoa---SPA\DE.HD7.CadPessoas.UIG\bin\DE.HD7.CadPessoas.UIG.pdb
+D:\Repositorios\Cadastro-de-Pessoa---SPA\DE.HD7.CadPessoas.UIG\obj\Debug\DE.HD7.CadPessoas.UIG.csprojResolveAssemblyReference.cache
+D:\Repositorios\Cadastro-de-Pessoa---SPA\DE.HD7.CadPessoas.UIG\obj\Debug\DE.HD7.CadPessoas.UIG.dll
+D:\Repositorios\Cadastro-de-Pessoa---SPA\DE.HD7.CadPessoas.UIG\obj\Debug\DE.HD7.CadPessoas.UIG.pdb

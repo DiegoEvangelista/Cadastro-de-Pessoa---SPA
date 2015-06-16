@@ -1,0 +1,14 @@
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\obj\Debug\DE.HD7.CadPessoas.Repositorio.csprojResolveAssemblyReference.cache
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\DE.HD7.CadPessoas.Repositorio.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\DE.HD7.CadPessoas.Repositorio.pdb
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\MongoDB.Bson.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\MongoDB.Driver.Core.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\MongoDB.Driver.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\MongoDB.Bson.xml
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\MongoDB.Driver.xml
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\obj\Debug\DE.HD7.CadPessoas.Repositorio.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\obj\Debug\DE.HD7.CadPessoas.Repositorio.pdb
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\DE.HD7.CadPessoas.Dominio.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Repositorio\bin\Debug\DE.HD7.CadPessoas.Dominio.pdb

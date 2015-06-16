@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DE.HD7.CadPessoas.Dominio", "DE.HD7.CadPessoas.Dominio\DE.HD7.CadPessoas.Dominio.csproj", "{F82E51A7-EB3D-44F2-AF54-40F8BECD8B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DE.HD7.CadPessoas.Aplicacao", "DE.HD7.CadPessoas.Aplicacao\DE.HD7.CadPessoas.Aplicacao.csproj", "{B7E063D5-A2C2-4B82-BA3B-0BC557E03943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DE.HD7.CadPessoas.Repositorio", "DE.HD7.CadPessoas.Repositorio\DE.HD7.CadPessoas.Repositorio.csproj", "{B282A292-BF41-49DB-B28D-485229248A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DE.HD7.CadPessoas.UIG", "DE.HD7.CadPessoas.UIG\DE.HD7.CadPessoas.UIG.csproj", "{3ECC7C05-05BB-4676-A192-117A42C59F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DE.HD7.CadPessoas.API", "DE.HD7.CadPessoas.API\DE.HD7.CadPessoas.API.csproj", "{AAB0DC56-558D-4F28-B654-B485B306C633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82E51A7-EB3D-44F2-AF54-40F8BECD8B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82E51A7-EB3D-44F2-AF54-40F8BECD8B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82E51A7-EB3D-44F2-AF54-40F8BECD8B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82E51A7-EB3D-44F2-AF54-40F8BECD8B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E063D5-A2C2-4B82-BA3B-0BC557E03943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E063D5-A2C2-4B82-BA3B-0BC557E03943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E063D5-A2C2-4B82-BA3B-0BC557E03943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E063D5-A2C2-4B82-BA3B-0BC557E03943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B282A292-BF41-49DB-B28D-485229248A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B282A292-BF41-49DB-B28D-485229248A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B282A292-BF41-49DB-B28D-485229248A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B282A292-BF41-49DB-B28D-485229248A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECC7C05-05BB-4676-A192-117A42C59F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECC7C05-05BB-4676-A192-117A42C59F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECC7C05-05BB-4676-A192-117A42C59F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECC7C05-05BB-4676-A192-117A42C59F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB0DC56-558D-4F28-B654-B485B306C633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB0DC56-558D-4F28-B654-B485B306C633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB0DC56-558D-4F28-B654-B485B306C633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB0DC56-558D-4F28-B654-B485B306C633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

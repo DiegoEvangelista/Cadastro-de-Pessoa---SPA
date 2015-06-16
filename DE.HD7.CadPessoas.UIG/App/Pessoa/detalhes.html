@@ -1,0 +1,19 @@
+﻿<div class="page-header">
+    <h1>Pessoa <small>Gerenciar</small></h1>
+    <a href="#/Pessoa/Cadastrar" class="btn btn-sm btn-primary">Nova pessoa</a>
+</div>
+
+<fieldset>
+    <legend>Detalhes da pessoa</legend>
+    <div class="form-group">
+        <strong>Nome: </strong> {{Pessoa.Nome}}
+    </div>
+    <div class="form-group">
+        <strong>Idade: </strong> {{Pessoa.Idade}}
+    </div>
+</fieldset>
+<hr />
+<p>
+    <a href="#/Palestrante/{{Pessoa.Id}}/Cadastrar" class="btn btn-sm btn-info">Editar</a>
+    <a href="#/Pessoa"> Voltar</a>
+</p>

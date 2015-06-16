@@ -1,0 +1,5 @@
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Dominio\bin\Debug\DE.HD7.CadPessoas.Dominio.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Dominio\bin\Debug\DE.HD7.CadPessoas.Dominio.pdb
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Dominio\obj\Debug\DE.HD7.CadPessoas.Dominio.csprojResolveAssemblyReference.cache
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Dominio\obj\Debug\DE.HD7.CadPessoas.Dominio.dll
+D:\Repositorios\DE.HD7.CadPessoas\DE.HD7.CadPessoas.Dominio\obj\Debug\DE.HD7.CadPessoas.Dominio.pdb

@@ -1,0 +1,39 @@
+﻿<div class="page-header">
+    <h1>Pessoa <small>Gerenciar</small></h1>
+    <a href="#/Pessoa/Cadastrar" class="btn btn-sm btn-primary">Nova Pessoa</a>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Pessoas cadastradas
+            </div>
+            <div class="panel-body">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Nome</th>
+                            <th>Idade</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        <tr ng-repeat="pessoa in Pessoas">
+                            <td style="width: 50px">{{$index + 1}}</td>
+                            <td><a href="#/Pessoa/{{pessoa.Id}}">{{pessoa.Nome}}</a></td>
+                            <td>{{pessoa.Idade}}</td>
+                            <td style="width: 100px">
+                                <a class="btn btn-info btn-sm" href="#/Pessoa/{{pessoa.Id}}/Cadastrar"><span class="glyphicon glyphicon-edit"></span></a>
+                                <a class="btn btn-danger btn-sm" href="#/Pessoa/{{pessoa.Id}}/Excluir"><span class="glyphicon glyphicon-trash"></span></a>
+                            </td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
